@@ -1,0 +1,6 @@
+framework module Pods_Public_API {
+  umbrella header "Pods-Public API-umbrella.h"
+
+  export *
+  module * { export * }
+}
